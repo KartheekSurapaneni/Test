@@ -1,0 +1,5 @@
+Hi,
+
+My name is kartheek...
+
+Iam new to Git and iam here to explore how it works.
